@@ -85,21 +85,35 @@ and disaster response planning.
 
 ## 🗂 Project Structure
 
- # Nuclear_contamination_Predictions/
-│
+ #
+ Nuclear_contamination_Predictions/
+#
 ├── clean_impute.py          # Data cleaning and imputation //
+#
 ├── clean_numeric.py         # Numeric preprocessing
+#
 ├── encode_categorical.py    # Categorical encoding
+#
 ├── drop_columns.py          # Feature selection
+#
 ├── prepare_data.py          # Data pipeline
+#
 ├── gnn_updated.py           # Graph Neural Network model
+#
 ├── pytorch updated.py       # PyTorch deep learning model
+#
 ├── random forest.py         # Random Forest model
+#
 ├── RISK_CLASSIFICATION.py   # Risk zone classification
+#
 ├── classify risk zone.py    # Zone mapping
+#
 ├── risk map updated.py      # Geographic risk visualisation
+#
 ├── app.py                   # Application entry point
+#
 ├── requirements.txt         # Dependencies
+#
 └── README.md
 ---
 
